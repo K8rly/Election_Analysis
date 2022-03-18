@@ -95,7 +95,7 @@ for county in county_votes:
         county_number_of_votes = county[county_votes]
         # 6c: Calculate the percentage of votes for the county.
         county_vote_percentage = float(county_number_of_votes) / float(county_votes) * 100
-        county_results = (f"{county_votes}: {county_vote_percentage:.1f}% ({county_votes:,})\n")}
+        county_results = (f"{county_votes}: {county_vote_percentage:.1f}% ({county_votes:,})\n")
          # 6d: Print the county results to the terminal.
         print(county_results)
          # 6e: Save the county votes to a text file.
