@@ -41,3 +41,6 @@ The candidates were:
 
 ## Election Audit Summary
 The script used for this election audit was modifed from its original version to incorporate county data as well as candidate data. The current script yielded results from three candidates and three counties, but the scripts can be modified for future elections to incorporate additional candidates or additional counties as needed. The script can also be modified to show lowest number of votes, lowest county turnout, or a possible tie.
+
+![Counties](counties_image.png)
+
